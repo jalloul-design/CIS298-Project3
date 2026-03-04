@@ -1,0 +1,21 @@
+{
+    "results": [
+        {
+            "ticker": "SHOP",
+            "name": "Shopify Inc. Class A subordinate voting shares",
+            "market": "stocks",
+            "locale": "us",
+            "primary_exchange": "XNAS",
+            "type": "CS",
+            "active": true,
+            "currency_name": "usd",
+            "cik": "0001594805",
+            "composite_figi": "BBG008HBD923",
+            "share_class_figi": "BBG004DW5NC7",
+            "last_updated_utc": "2026-03-03T07:07:41.593557877Z"
+        }
+    ],
+    "status": "OK",
+    "request_id": "be57ddb8476df583f896b98a44362b69",
+    "count": 1
+}
